@@ -1,9 +1,7 @@
-First steps in GIT 
-Everything its gonna be ok. 
-Look this one year later!
+HELLO GIT 
 
-V2 
+IM ANDRES
 
-Adding new words
+DOIN' MY FIRST STEPS
 
-Hoy martes hablamos de la vida
+V1
